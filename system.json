@@ -29,7 +29,7 @@
   "gridDistance": 2,
   "gridUnits": "m",
   "primaryTokenAttribute": "resources.pd",
-  "url": "https://github.com/Ashtecy",
-  "manifest": "",
-  "download": ""
+  "url": "https://github.com/Ashtecy/b-b",
+  "manifest": "https://raw.githubusercontent.com/Ashtecy/b-b/main/system.json",
+  "download": "https://github.com/Ashtecy/b-b.git"
 }
