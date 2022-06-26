@@ -1,0 +1,15 @@
+{
+"ACTOR.TypePC": "Player",
+"ACTOR.TypeNPC": "NPC",
+
+"b&b.title": "Brains & Brawn",
+"b&b.bnb": "Brains/Brawn",
+"b&b.bnbNumber": "Number",
+"b&b.bnbPD": "PD",
+"b&b.bnbPD": "PD",
+"b&b.bnbBoons": "Boons",
+"b&b.bnbBanes": "Banes",
+"b&b.inventory": "Inventory",
+"b&b.inventoryEquipment": "Equipment",
+
+}

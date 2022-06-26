@@ -2,16 +2,21 @@
 "Actor": {
   "types": ["PC", "NPC"],
   "templates": {
-    "Sheet": {
-      "Number": "5",
-    },
-    "resources": {
-      "health": {
+    "bnb": {
+      "Number": {
+        "value": 5,
+		}
+      "pd": {
         "min": 0,
         "value": 10,
         "max": 10
+		}
+      "Boons": {
+        "value": "",
       }
-    }
-  }
-}
-}
+	  "Banes": {
+        "value": "",
+		}
+	  "Equipment": {
+		"value": "",
+      }}}}}
