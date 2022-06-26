@@ -5,14 +5,10 @@
   "version": "1.0.0",
   "templateVersion": 2,
   "author": "Ashtec",
-  "scripts": [
-    "scripts/system-script-1.js",
-    "scripts/system-script-2.js"
-  ],
+  "scripts": [  ],
   "esmodules": [  ],
   "styles": "bnb.css"],
-  "packs": [
-  ],
+  "packs": [  ],
   "languages": [
     {
       "lang": "en",
