@@ -1,0 +1,35 @@
+{
+  "name": "b&b",
+  "title": "Brains & Brawn",
+  "description": "Fighting Guy Studios",
+  "version": "1.0.0",
+  "templateVersion": 2,
+  "author": "Ashtec",
+  "scripts": [
+    "scripts/system-script-1.js",
+    "scripts/system-script-2.js"
+  ],
+  "esmodules": [
+    "scripts/system-module-1.mjs"
+  ],
+  "styles": [
+    "styles/system-styles-1.css",
+  ],
+  "packs": [
+  ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "socket": false,
+  "initiative": "1d10",
+  "gridDistance": 2,
+  "gridUnits": "m",
+  "primaryTokenAttribute": "resources.pd",
+  "url": "https://github.com/Ashtecy",
+  "manifest": "",
+  "download": ""
+}

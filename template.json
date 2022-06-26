@@ -1,0 +1,17 @@
+{
+"Actor": {
+  "types": ["PC", "NPC"],
+  "templates": {
+    "Sheet": {
+      "Number": "5",
+    },
+    "resources": {
+      "health": {
+        "min": 0,
+        "value": 10,
+        "max": 10
+      }
+    }
+  }
+}
+}
